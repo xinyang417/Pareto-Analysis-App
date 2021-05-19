@@ -1,0 +1,11 @@
+C:\Users\xli66\source\repos\ParetoAnalysis\bin\Debug\ParetoAnalysis.exe.config
+C:\Users\xli66\source\repos\ParetoAnalysis\bin\Debug\ParetoAnalysis.exe
+C:\Users\xli66\source\repos\ParetoAnalysis\bin\Debug\ParetoAnalysis.pdb
+C:\Users\xli66\source\repos\ParetoAnalysis\obj\Debug\ParetoAnalysis.csprojAssemblyReference.cache
+C:\Users\xli66\source\repos\ParetoAnalysis\obj\Debug\ParetoAnalysis.MainForm.resources
+C:\Users\xli66\source\repos\ParetoAnalysis\obj\Debug\ParetoAnalysis.Properties.Resources.resources
+C:\Users\xli66\source\repos\ParetoAnalysis\obj\Debug\ParetoAnalysis.csproj.GenerateResource.cache
+C:\Users\xli66\source\repos\ParetoAnalysis\obj\Debug\ParetoAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\xli66\source\repos\ParetoAnalysis\obj\Debug\ParetoAnalysis.exe
+C:\Users\xli66\source\repos\ParetoAnalysis\obj\Debug\ParetoAnalysis.pdb
+C:\Users\xli66\source\repos\ParetoAnalysis\bin\Debug\Product Database.accdb
