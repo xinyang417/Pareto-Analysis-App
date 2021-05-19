@@ -1,5 +1,2 @@
 # Pareto-Analysis-App
-
-
-## MainForm.cs
-you need to write this - what does it do 
+A prototype that tracks inventory information, product sales, and performs Pareto analysis, transforming inventory valuation from spreadsheet approach to database-driven approach.
